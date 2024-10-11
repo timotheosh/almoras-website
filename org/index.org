@@ -1,0 +1,5 @@
+#+title: The World of Almoras
+#+startup: inlineimages
+#+category: Introduction
+
+* The World of Almoras

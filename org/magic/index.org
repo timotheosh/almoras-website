@@ -1,0 +1,5 @@
+#+title: Magic
+#+startup: inlineimages
+#+category: Introduction
+
+* Magic
